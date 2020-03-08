@@ -1,0 +1,3 @@
+[submodule "adb"]
+	path = adb
+	url = https://android.googlesource.com/platform/system/adb
