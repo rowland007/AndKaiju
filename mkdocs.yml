@@ -6,7 +6,7 @@ site_url: 'https://rowland007.github.io/AndKaiju/'
 
 # Repository
 repo_name: 'Randy Rowland'
-repo_url: 'https://github.com/rowland007'
+repo_url: 'https://github.com/rowland007/AndKaiju/'
 
 # Copyright
 copyright: '&#127279; 2019 GNU General Public License v3.0'
@@ -24,7 +24,7 @@ theme:
         primary: 'blue'
         accent: 'amber'
     logo:
-        icon: 'people_alt'
+        icon: 'cloud_download'
     language: 'en'
     font:
         text: 'Roboto'
